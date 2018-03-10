@@ -51,6 +51,6 @@ app.get("*", function(req, res){
 });
 
 
-app.listen(3008, function(){
-  console.log("Map running on port 3008!!!");
+app.listen(3000, function(){
+  console.log("Map running on port 3000!!!");
 });
